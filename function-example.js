@@ -5,7 +5,6 @@ const assignmentMarks = assignment1+assignment2+assignment3;
 const assignmentAverage = assignmentMarks/3;
 return assignmentAverage;
 }
-
 const eachAssignmentMark = assignmentMarks(60,60,60);
 console.log('My Assignment Marks Average is',eachAssignmentMark) ;
 
